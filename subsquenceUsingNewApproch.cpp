@@ -19,7 +19,7 @@ int subseq(string input,string output[])
     
     
 }
-int main()//new approch of subsequence
+int main()//new approch of finding subsequence 
 {
   string input;
   cin>>input;
