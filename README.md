@@ -46,7 +46,7 @@ I regularly push my solutions here to track progress and stay consistent in my D
 
 ## 💡 Connect with Me
 - 📧 Email: [chiragansharma24@gmail.com](mailto:chiragansharma24@gmail.com)
-- 🌐 GitHub: [github.com/ChiragSharma24](https://github.com/ChiragSharma24)
+- 🌐 GitHub: [github.com/ChiragSharma24](https://github.com/24chirag)
 
 ---
 
